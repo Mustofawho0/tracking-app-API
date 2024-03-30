@@ -1,0 +1,39 @@
+{
+  "tracker": [
+    {
+      "id": 1711613131345,
+      "name": "Steel",
+      "nominal": 75000,
+      "category": "heavy",
+      "date": "2024-09-10"
+    },
+    {
+      "id": 1711771989068,
+      "name": "Handphone",
+      "nominal": 1500000,
+      "category": "electronic",
+      "date": "2024-10-25"
+    },
+    {
+      "id": 1711772077963,
+      "name": "PS 4",
+      "nominal": 1000000,
+      "category": "electronic",
+      "date": "2024-10-11"
+    },
+    {
+      "id": 1711772138410,
+      "name": "Laptop",
+      "nominal": 4000000,
+      "category": "electronic",
+      "date": "2024-11-20"
+    },
+    {
+      "id": 1711772163990,
+      "name": "CPU",
+      "nominal": 3000000,
+      "category": "electronic",
+      "date": "2024-11-27"
+    }
+  ]
+}
